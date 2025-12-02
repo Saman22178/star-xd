@@ -1,13 +1,13 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=speech&height=200&color=gradient&text=WE'LL%20COME%20🥳&animation=blinking&fontAlign=36&fontAlignY=36&descAlign=62&reversal=false&textBg=false" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=speech&height=200&color=gradient&text=WE'LL%20COME%20ðŸ¥³&animation=blinking&fontAlign=36&fontAlignY=36&descAlign=62&reversal=false&textBg=false" width="100%">
 </div>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=70&pause=500&color=00FF00&center=true&width=1150&height=200&lines=PLEASE-FORK-STAR-BOT-REPO" alt="Typing SVG" /></a>
   </div>
-<a><img src='https://i.ibb.co/bjTC9sF5/malvin-xd.jpg'/></a>
+<a><img src='https://files.catbox.moe/5anohf.png'/></a>
 
-<!-- 📊 STATS & HERO ANIMATION (Updated Colors) -->
+<!-- ðŸ“Š STATS & HERO ANIMATION (Updated Colors) -->
 <div align="center">
 
   <!-- GitHub Stats Badges with new color palette -->
@@ -28,28 +28,28 @@
 <div align="center">
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=6000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+STAR+XD+BETTER+OPTION;🔥+THE+MOST+POWERFUL+WHATSAPP+BOT;💻+DEVELOPER+BY+MR+XDKING2;🚀+STAR-XD+SOLUTIONS;🌈+FAST+⚡+SECURE+🔒+RELIABLE+✅" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=6000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=âš¡+STAR+XD+BETTER+OPTION;ðŸ”¥+THE+MOST+POWERFUL+WHATSAPP+BOT;ðŸ’»+DEVELOPER+BY+MR+XDKING2;ðŸš€+STAR-XD+SOLUTIONS;ðŸŒˆ+FAST+âš¡+SECURE+ðŸ”’+RELIABLE+âœ…" alt="Typing Animation">
 </h1>
 
 
-> 1: **ғᴏʀᴋ ʀᴇᴘᴏsɪᴛᴏʀʏ**
+> 1: **Ò“á´Ê€á´‹ Ê€á´‡á´˜á´sÉªá´›á´Ê€Ê**
 
 _Click the button below to fork STAR XD repository to your GitHub account_
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Tap+fork+button+Bellow+To+Fork;STAR+XD+REPO+On+Github)](https://git.io/typing-svg)
 <a href="https://github.com/XdKing2/star-xd/fork">
-  <img src="https://img.shields.io/github/forks/XdKing2/star-xd?style=for-the-badge&logo=github&color=4c1&label=Fork%20star-xd" alt="Fork sᴛᴀʀ xᴅ" />
+  <img src="https://img.shields.io/github/forks/XdKing2/star-xd?style=for-the-badge&logo=github&color=4c1&label=Fork%20star-xd" alt="Fork sá´›á´€Ê€ xá´…" />
 </a>
 
-> 2. ɢᴇᴛ ᴘᴀɪʀ sᴇssɪᴏɴ_ɪᴅ
+> 2. É¢á´‡á´› á´˜á´€ÉªÊ€ sá´‡ssÉªá´É´_Éªá´…
 
 [![Starcore Session](https://img.shields.io/badge/Session%20App-000000?style=for-the-badge&logo=react&logoColor=white)](https://starcore-pairing.onrender.com/pair/)
 
 
-> sᴇssɪᴏɴ ɪᴅ sᴇʀᴠᴇʀ 2
+> sá´‡ssÉªá´É´ Éªá´… sá´‡Ê€á´ á´‡Ê€ 2
 
 [![Get Pairing Code](https://img.shields.io/badge/Get%20Pairing%20Code2-green?style=for-the-badge&logo=opencv&logoColor=black)](https://starcore-pair.vercel.app/)
 
-> 3.  ᴅᴏᴡɴʟᴏᴀᴅ ʙᴏᴛ ғɪʟᴇ
+> 3.  á´…á´á´¡É´ÊŸá´á´€á´… Ê™á´á´› Ò“ÉªÊŸá´‡
     
 <p align="center">
     <a href="https://codeload.github.com/XdKing2/star-xd/zip/refs/heads/main" target="_blank">
@@ -57,16 +57,16 @@ _Click the button below to fork STAR XD repository to your GitHub account_
     </a>
 </p>
 
- 4.  ᴅᴇᴘʟᴏʏ ɴᴏᴡ
+ 4.  á´…á´‡á´˜ÊŸá´Ê É´á´á´¡
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=The+bot+supports+deployment;on+all+Free+Panels+easily)](https://git.io/typing-svg)
 
- 1.  ʜᴇʀᴏᴋᴜ
+ 1.  Êœá´‡Ê€á´á´‹á´œ
 
 <p style="text-align: center; font-size: 1.2em;">  
 <p align="center">
-<a href='https://dashboard.heroku.com/new?template=https://github.com/XdKing2/star-xd'target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-FF004D?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/XdKing2/star-xd'target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku â€Ž deploy-FF004D?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
 
-> .💫 sᴛᴀʀ xᴅ supports deployment on all panels & heroku platform i.e,
+> .ðŸ’« sá´›á´€Ê€ xá´… supports deployment on all panels & heroku platform i.e,
 - 1.  [Heroku](https://dashboard.heroku.com/new?template=https://github.com/XdKing2/star-xd)
 - 2.  [Katabump](https://dashboard.katabump.com/auth/login#203630)
 - 3.  [Bothosting](https://bot-hosting.net/?aff=1097457675723341836)
@@ -75,14 +75,14 @@ _Click the button below to fork STAR XD repository to your GitHub account_
 - 6.  [Daki.cc](https://daki.cc)
 - 7.  [Render](https://render.com)
   
- 5.  .ғᴏʟʟᴏᴡ ғᴏʀ ᴜᴘᴅᴀᴛᴇs
+ 5.  .Ò“á´ÊŸÊŸá´á´¡ Ò“á´Ê€ á´œá´˜á´…á´€á´›á´‡s
 <div align="left">
   <a href="https://youtube.com/malvintech2">
-    <img src="https://img.shields.io/badge/Subscribe%20Youtube-0078E7?style=for-the-badge&logo=youtube&logoColor=darkred" alt="sᴜʙsᴄʀɪʙᴇ ᴛᴏ ᴍʏ ʏᴏᴜᴛᴜʙᴇ"/>
+    <img src="https://img.shields.io/badge/Subscribe%20Youtube-0078E7?style=for-the-badge&logo=youtube&logoColor=darkred" alt="sá´œÊ™sá´„Ê€ÉªÊ™á´‡ á´›á´ á´Ê Êá´á´œá´›á´œÊ™á´‡"/>
   </a>
 <br>
 <div align="left">
   <a href="https://t.me/malvintech">
-    <img src="https://img.shields.io/badge/Join%20telegram-0078E7?style=for-the-badge&logo=telegram&logoColor=darkblue" alt="ᴊᴏɪɴ ᴛᴇʟᴇɢʀᴀᴍ"/>
+    <img src="https://img.shields.io/badge/Join%20telegram-0078E7?style=for-the-badge&logo=telegram&logoColor=darkblue" alt="á´Šá´ÉªÉ´ á´›á´‡ÊŸá´‡É¢Ê€á´€á´"/>
   </a>
 </div>
